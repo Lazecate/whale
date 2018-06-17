@@ -17,7 +17,9 @@
     "cookiesAlert": "",
     "gdpr": "",
     "google-analytics": "",
-    "siteUrl": "undefined",
+    "siteUrl": "http://lazecate.github.io/whale/index.html",
+    "sitemapSwitcherAuto": "on",
+    "sitemapSwitcher": "on",
     "versionFirst": "4.7.7",
     "uniqCompNum": 38,
     "versionPublish": "4.7.7"
