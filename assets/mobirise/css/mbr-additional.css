@@ -1,4 +1,7 @@
 @import url(https://fonts.googleapis.com/css?family=Playfair+Display:400,700&subset=latin,cyrillic);
+@import url(https://fonts.googleapis.com/css?family=Open+Sans:400,300,700);
+
+
 
 #dropdown-menu-0 .hide-buttons [data-button] {
   display: none !important;
@@ -24,6 +27,15 @@
   font-size: 60px;
   font-family: 'Playfair Display', sans-serif;
 }
+#contacts1-s P {
+  text-align: left;
+  font-family: 'Playfair Display', sans-serif;
+}
+#contacts1-s B {
+  font-family: 'Open Sans', sans-serif;
+}
+
+
 #dropdown-menu-8 .hide-buttons [data-button] {
   display: none !important;
 }
@@ -44,6 +56,15 @@
 #dropdown-menu-8 .navbar-toggler {
   color: #000000;
 }
+#contacts1-s P {
+  text-align: left;
+  font-family: 'Playfair Display', sans-serif;
+}
+#contacts1-s B {
+  font-family: 'Open Sans', sans-serif;
+}
+
+
 #dropdown-menu-9 .hide-buttons [data-button] {
   display: none !important;
 }
@@ -64,6 +85,15 @@
 #dropdown-menu-9 .navbar-toggler {
   color: #000000;
 }
+#contacts1-s P {
+  text-align: left;
+  font-family: 'Playfair Display', sans-serif;
+}
+#contacts1-s B {
+  font-family: 'Open Sans', sans-serif;
+}
+
+
 #dropdown-menu-n .hide-buttons [data-button] {
   display: none !important;
 }
@@ -83,4 +113,11 @@
 }
 #dropdown-menu-n .navbar-toggler {
   color: #000000;
+}
+#contacts1-s P {
+  text-align: left;
+  font-family: 'Playfair Display', sans-serif;
+}
+#contacts1-s B {
+  font-family: 'Open Sans', sans-serif;
 }
