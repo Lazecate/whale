@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Lazecate",
-    "currentPage": "submit.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "purity",
       "title": "PurityM",
@@ -18,13 +18,14 @@
     "noImageResize": "",
     "cookiesAlert": "",
     "gdpr": "",
-    "google-analytics": "",
+    "google-analytics": "<!-- Global site tag (gtag.js) - Google Analytics -->\r\n<script async src=\"https://www.googletagmanager.com/gtag/js?id=UA-120952716-1\"></script>\r\n<script>\r\n  window.dataLayer = window.dataLayer || [];\r\n  function gtag(){dataLayer.push(arguments);}\r\n  gtag('js', new Date());\r\n\r\n  gtag('config', 'UA-120952716-1');\r\n</script>",
     "siteUrl": "http://lazecate.github.io/whale/index.html",
     "sitemapSwitcherAuto": "on",
     "sitemapSwitcher": "on",
     "versionFirst": "4.7.7",
     "uniqCompNum": 38,
-    "versionPublish": "4.7.7"
+    "versionPublish": "4.7.7",
+    "screenshot": "screenshot.png"
   },
   "pages": {
     "index.html": {
